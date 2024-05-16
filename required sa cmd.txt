@@ -1,0 +1,4 @@
+potential security issue with email when shared at profile!!
+
+npm install nodemon -g OR nodemon app [to activate nodemon. this is so that the server does not have to be restarted in the terminal every time.]
+npm install bcryptjs [required to encrypt passwords.]
